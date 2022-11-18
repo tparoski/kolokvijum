@@ -1,0 +1,8 @@
+3.1
+Alfa testiranje izvrsava klijent; Testeri u fazi alfa testiranja simuliraju krajnje korisnike upotrebom raznih tehnika, s ciljem
+da izvrše i provjere sve akcije koje bi i korisnik mogao napraviti. ; non-functional testing
+3.2 A+B;
+4. Low priority-high severity
+5. Tester, jer je to jako bitno za upload slika na "sajt"
+6.Funkcionalno testiranje- testiramo neku funkcionalnost;
+Nefunkcionalno testiranje- Njih zovemo nefunkcionalnim zato što ne definišu zadatke (funkcije) softvera već potrebne performanse i sigurnost softvera (npr. stress, smoke i load testovi).
