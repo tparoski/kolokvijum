@@ -1,0 +1,23 @@
+Napravite svoju granu sa vasim imenom i pushujte tu granu. 
+Na toj grani treba da imate 3 txt fila pod nazivima: testCases.txt , bugs.txt, pitanja.txt.
+U file-u testCases.txt treba da ima link ka google sheetu (test cases) za koje treba da ostavite edit permisije
+U file-u bugs.txt treba da ima link ka google sheetu (bugs) za koje treba da ostavite edit permisije
+U filu pitanja.txt treba da stavite odgovore na pitanja iz treceg zadatka
+
+1. testCases- Napisite test casove za Create new gradebook page na sledecoj aplikaciji: https://gradebook.vivifyideas.com/login 
+Specifikacija: https://docs.google.com/document/d/1Ftoz0iLyNaQiCaifemazTEQ61DoU2EUKsW-HJrMp2ek/edit?usp=sharing
+
+2. Bugs- Napisati u google sheetu bar 3 buga na aplikaciji i bar 1 improvement
+
+3. Pitanja- Odgovorite na sledeca pitanja:
+3.1.Na aplikaciji gradebook dodate su 2 nove funkcionalnosti Edit student i Remove student. Nakon sto ste zavrsili sa testiranjem tih funkcionalnosti sta cete testirati (koje funkcionalnosti) u okviru regresionih testova?
+Sta tester treba da radi u fazi Alfa testiranja?
+
+3.2.Kada pocnemo da testiramo neku funkcionalnost prvi put, da li cemo prvo probati:
+a. Osnovni negativni test case
+b. Osnovni pozitivni test case
+c. Sve pozitivne test casove
+d. Sve negativne test casove
+4. Radis na web prezentaciji novog pozorista u gradu. Nasao/la si bag na stranici “O nama”. U kontaktnim podacima data je pogresna adresa. Koji priority i severity ces dodeliti bagu?
+5. Tvoj kolega je pri testiranju forme za upload slike prijavio bug da ne moze da uradi drag and drop za sliku. Programer kaze da to nikad niko nije trazio niti pise u dokumentaciji. Kolega tester kaze da se to podrazumeva. Ko je u pravu i zbog cega?
+6. U cemu je razlika izmedju funkcionalnog i nefunkcionalnog testiranja?
