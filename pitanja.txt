@@ -1,0 +1,5 @@
+3.1. testirao bi sva input polja prvo
+3.2. b
+4. Low priority i low severity
+5. Programer
+6. Funkcionalno testiranje je testiranje na osnovu zahteva klijenta a ne funkcionalno testiranje je testiranje koje se ne odnosi na specifikaciju vec na funkcionalnost (brzina, podrzanost urdjaja...)
