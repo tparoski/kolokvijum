@@ -1,0 +1,32 @@
+3. Pitanja- Odgovorite na sledeca pitanja:
+
+3.1.Na aplikaciji gradebook dodate su 2 nove funkcionalnosti Edit student i Remove student. 
+Nakon sto ste zavrsili sa testiranjem tih funkcionalnosti sta cete testirati (koje funkcionalnosti) u okviru regresionih testova?
+
+ODGOVOR: Nakon dodavanja ovih funkcionalnosti potrebno je testirati sve funkcionalnosti koje su povezane sa profilom studenta tj.  Add new students.
+
+Sta tester treba da radi u fazi Alfa testiranja?
+
+ODGOVOR: U fazi Alfa testiranja potrebno je otkriti sve potencijalne probleme i bagove pre launch-a. 
+
+3.2.Kada pocnemo da testiramo neku funkcionalnost prvi put, da li cemo prvo probati:
+a. Osnovni negativni test case
+b. Osnovni pozitivni test case
+c. Sve pozitivne test casove
+d. Sve negativne test casove
+
+ODGOVOR: b
+
+4. Radis na web prezentaciji novog pozorista u gradu. Nasao/la si bag na stranici “O nama”. U kontaktnim podacima data je pogresna adresa. Koji priority i severity ces dodeliti bagu?
+
+ODGOVOR: High priority, low severity
+
+5. Tvoj kolega je pri testiranju forme za upload slike prijavio bug da ne moze da uradi drag and drop za sliku. 
+Programer kaze da to nikad niko nije trazio niti pise u dokumentaciji. Kolega tester kaze da se to podrazumeva. Ko je u pravu i zbog cega?
+
+ODGOVOR: U pravu je programer jer to nije definisano u dokumentaciji, to bi moglo da se definise kao improvement. 
+
+6. U cemu je razlika izmedju funkcionalnog i nefunkcionalnog testiranja?
+
+ODGOVOR: Funkcionalno testiranje testira osnovne funkcionalnosti, tj. "Da li nesto radi?" 
+Nefunkcionalno testiranje testira "Kako nesto radi?" tj, perfomance, security, reliability, usability...

@@ -1,0 +1,5 @@
+1. testCases- Napisite test casove za Create new gradebook page na sledecoj aplikaciji: https://gradebook.vivifyideas.com/login 
+Specifikacija: https://docs.google.com/document/d/1Ftoz0iLyNaQiCaifemazTEQ61DoU2EUKsW-HJrMp2ek/edit?usp=sharing
+
+
+Test cases: https://docs.google.com/spreadsheets/d/17IzWBpU_UkAeSlDQxdEzvTAN7FjOyeof5d5U_uhv374/edit?usp=sharing
