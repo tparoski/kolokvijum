@@ -1,0 +1,13 @@
+
+3.1 Proveriti da li je to uticalo na prethodne funkcionalnosti, kao na primer kreiranje Usera
+    U fazi alfa testiranja - Proveriti da li su tu sve zahtevane funkcionalnosti i da li rade,  pre nego se predje na beta
+
+3.2 b. Osnovni pozitivni test case
+
+4. High priority i low severity
+
+5. Programer je u pravu, treba da se radi onako kako pise u zahtevima
+
+6. Funkcionalno testiranje odnosi se na same zahteve, daje odgovor sta nesto treba da radi, a Nefunkcionalno testiranje nije pokriveno dokumentacijom, ono daje odgovor kako nesto treba da radi.
+Funkcionalno je black box, a nefunkcionalno je white box (morate da imate znanje i informacije o funkcionisanju samog sistema)
+
