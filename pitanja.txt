@@ -1,0 +1,60 @@
+
+PITANJA:
+3. Pitanja- Odgovorite na sledeca pitanja:
+3.1.Na aplikaciji gradebook dodate su 2 nove funkcionalnosti Edit student i Remove student. 
+Nakon sto ste zavrsili sa testiranjem tih funkcionalnosti sta cete testirati (koje funkcionalnosti) 
+u okviru regresionih testova?
+Sta tester treba da radi u fazi Alfa testiranja?
+
+3.2.Kada pocnemo da testiramo neku funkcionalnost prvi put, da li cemo prvo probati:
+a. Osnovni negativni test case
+b. Osnovni pozitivni test case
+c. Sve pozitivne test casove
+d. Sve negativne test casove
+
+4. Radis na web prezentaciji novog pozorista u gradu. Nasao/la si bag na stranici “O nama”. 
+U kontaktnim podacima data je pogresna adresa. Koji priority i severity ces dodeliti bagu?
+
+5. Tvoj kolega je pri testiranju forme za upload slike prijavio bug da ne moze da uradi drag and drop 
+za sliku. Programer kaze da to nikad niko nije trazio niti pise u dokumentaciji. 
+Kolega tester kaze da se to podrazumeva. Ko je u pravu i zbog cega?
+
+6. U cemu je razlika izmedju funkcionalnog i nefunkcionalnog testiranja?
+
+ODGOVORI:
+3.1 Nakon funkcionalnosti Edit student i Remove student, u okviru regresionih testova, 
+testirala bih sledece funkcionalnosti:
+- Creating gradebook 
+- Adding students
+
+U fazi Alfa testiranja tester testira da li proizvod radi funkcionalnosti one za sta je pravljen,
+i pronalazi osnovne greske pre svega,
+u nasem slucaju testirala bih sledece funkcionalnosti: 
+- Registrovanje profesora
+- Kreiranje Gradebooka
+- Editovanje liste studenata
+- Dodavanje ocena i komentara
+
+3.2.
+Pa mozda pod b) odnosno osnovni pozitivni test case najpre (mada zavisi od applikacije i konteksta
+da li bismo probali i negativni test case prvo). U svakom slucaju odgovori pod c i d nisu moguci, 
+jer nije moguce Exhaustive testing. 
+
+4. 
+Dodelila bih high priority, znaci da se sto pre hitno prepravi adresa. 
+Ne prikazuje se greska u okviru web adrese tako da nije high severity, jer neka se adresa prikazuje,
+samo sto je pogresna. 
+
+5. 
+Administrativnu je u pravu programer jer je verovatno napravio opciju da se upload preko dugmeta sto je 
+verovatno bilo u specifikaciji. 
+Tester kolega je primetio improvement da bi bilo dobro ubaciti da moze da se drag and drop sto bi verovatno
+trebalo team lead da odobri i to, i da se zada programeru da napravi i takvu dodatnu opciju za uploadovanje. 
+
+6. 
+Nefunkcionalno testiranje nije direktno vezano za funkcije aplikacije nego na primer performance, 
+usability, i security testing.
+A funckionalno testiranje bi bilo integraciono, smoke testing, regresiono, sanity, 
+znaci testiranje samih funkcionalnosti aplikacije, kako rade funkcionalnosti same.  
+
+
