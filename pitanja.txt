@@ -1,0 +1,6 @@
+3.1 Tester treba da bude siguran da sve radi kako treba jer u alfa testiranju ne ucestvuje on vec klijent.
+3.2 a i b jer se verovatno necemo moci setiti svih negativnih i pozitivnih kombinacija osim ako ne napravimo neki decision table
+
+3.4 low priority, high severity low priority je jer nam ne utice na rad stranice, high severity jer se radi o prezentaciji
+3.5 Programer je u pravu posto ne postoji opis, nista ne bi trebalo da se podrazumeva vec da bude jasno definisano u dokumentaciji.
+3.6 Funkcionalno testiranje se izvrsava nad sistemom dok se nefunkcionalno testiranje izvrsava nad aplikacijom/sajtom i gledaju se njene performanse, pouzdanost, koriscenje...
